@@ -1,0 +1,34 @@
+{
+	"name" : "hasanilingi/php-meganz-client-bridge",
+	"description" : "A php bridge to execute MEGAclient commands via laravel",
+	"type" : "library",
+	"homepage" : "https://github.com/hasanilingi/php-meganz-client-bridge",
+	"license" : "GNU General Public License v3.0",
+	"support" : {
+		"issues" : "https://github.com/hasanilingi/php-meganz-client-bridge/issues",
+		"source" : "https://github.com/hasanilingi/php-meganz-client-bridge"
+	},
+	"authors" : [{
+			"name" : "hasan ilingi",
+			"homepage" : "https://github.com/hasanilingi",
+			"role" : "Developer"
+		}
+	],
+	"autoload" : {
+		"psr-4" : {
+			"hasanilingi\\MegaNzBridge\\" : "src"
+		}
+	},
+	"require" : {
+		"php" : ">=7.0.*"
+	},
+	"keywords" : [
+		"php",
+		"mega.nz",
+		"mega.co.nz",
+		"Megaclient",
+		"bridge",
+		"mega",
+		"client"
+	]
+}
