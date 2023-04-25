@@ -3,7 +3,7 @@
 	"description" : "A php bridge to execute MEGAclient commands via laravel",
 	"type" : "library",
 	"homepage" : "https://github.com/hasanilingi/php-meganz-client-bridge",
-	"license" : "GNU General Public License v3.0",
+	"license" : "MIT",
 	"support" : {
 		"issues" : "https://github.com/hasanilingi/php-meganz-client-bridge/issues",
 		"source" : "https://github.com/hasanilingi/php-meganz-client-bridge"
